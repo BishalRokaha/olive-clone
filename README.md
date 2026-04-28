@@ -119,21 +119,6 @@ npm run preview
 
 **Container design** — The entire hero is wrapped in a centered `max-width: 960px` card with a soft green tint (`#eef3ef`) sitting on a slightly darker background, replicating the "card on page" layout of the reference.
 
----
-
-## Screenshots
-
-| Section | Description |
-|---|---|
-| Navbar + Hero | Logo, nav links, trust badge, heading, CTA |
-| Phone — Slide 1 | Sea Salt & Vinegar Crisps (Score: 39 / Avoid) |
-| Phone — Slide 2 | Sourlittles by YumEarth (Score: 84 / Excellent) |
-| Phone — Slide 3 | Organic Bagels by Killer Dave's (Score: 43 / Avoid) |
-| Phone — Slide 4 | Olipop Sparkling Tonic (Score: 100 / Excellent) |
-| Phone — Slide 5 | Larabar Cookie Dough (Score: 92 / Excellent) |
-| Phone — Slide 6 | San Pellegrino Water (Score: 52 / Limit) |
-
----
 
 ## Disclaimer
 
