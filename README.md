@@ -6,6 +6,7 @@ A pixel-accurate recreation of the [oliveapp.com](https://www.oliveapp.com/) her
 
 ## Live Preview
 
+https://olive-clone-three.vercel.app/
 > Clone the repo and run locally — setup takes under a minute (instructions below).
 
 ---
